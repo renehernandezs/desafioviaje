@@ -74,8 +74,15 @@ body  {
 
 .card-text {
     text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
 }
 
 .card-title2 {
-    text-align: justify;
-}gi
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
